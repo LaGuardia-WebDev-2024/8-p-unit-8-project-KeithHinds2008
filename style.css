@@ -4,9 +4,9 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-image: url("https://starwalk.space/gallery/images/what-is-space/1920x1080.jpg");
   text-align: center;
-  color: navy;
+  color: rgb(245, 51, 51);
   margin: auto;
   font-family: water;
 }
@@ -22,5 +22,6 @@ h1{
   border: 5px solid white;
 }
 
+h2 {color: rgb(245, 51, 51) }
 
 
